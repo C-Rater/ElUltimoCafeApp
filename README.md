@@ -5,3 +5,4 @@
 [![GitHub stars](https://img.shields.io/github/stars/C-Rater/ElUltimoCafeApp.svg)]()
 
 Aplicación de Gestión de Servicios Funerarios para la Empresa Cafeteria Las Medranas
+(StandBy)
